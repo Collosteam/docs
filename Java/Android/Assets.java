@@ -20,13 +20,13 @@ private boolean listAssetFiles(String path) {
 
     return true; 
 } 
-
+/*
 Call the listAssetFiles with the root folder name of your asset folder.
 
     listAssetFiles("root_folder_name_in_assets");
 
 If the root folder is the asset folder then call it with
 
-    listAssetFiles("");    
+    listAssetFiles(""); */   
 
 

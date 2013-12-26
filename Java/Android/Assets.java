@@ -1,4 +1,3 @@
-
 Assets listing
 
 private boolean listAssetFiles(String path) {

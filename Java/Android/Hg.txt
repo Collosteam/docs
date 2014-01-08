@@ -1,0 +1,11 @@
+[paths]
+default = http://path.com
+
+
+[ui]
+username = user
+
+[auth]
+default.prefix =  http://path.com
+default.username = user
+default.password = 0000
